@@ -1,5 +1,17 @@
 # Giphy React Native Demo
 
+Integrate Giphy into your React Native project with the below features.
+
+## Features
+
+- [ ] Use the [Giphy Api](https://github.com/Giphy/GiphyAPI) for search.
+
+- [ ] Search Giphy API as you type and display list of results
+
+- [ ] Implement Interface animations using [React Native Animated API](https://facebook.github.io/react-native/docs/animations) or [React Native Animatable library](https://github.com/oblador/react-native-animatable).
+
+- [ ] Implement route and view for a single Giphy using [React Navigation](https://github.com/react-navigation/react-navigation)
+
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your
